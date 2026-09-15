@@ -60,9 +60,6 @@ xai-liver-cancer-biomarkers/
 ├── results/
 │   └── figures/                       # convergence curves and SHAP summary plots
 ├── docs/
-│   ├── project_report.pdf             # project report
-│   ├── progress_report.pdf            # progress report
-│   ├── liver_cancer_detection_xai.pptx# presentation slides
 │   └── references/                    # background papers
 ├── requirements.txt
 └── README.md
