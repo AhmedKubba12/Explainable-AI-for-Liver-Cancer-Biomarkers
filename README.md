@@ -67,6 +67,7 @@ xai-liver-cancer-biomarkers/
 ├── requirements.txt
 └── README.md
 ```
+selected_genes_500_xg.csv contains private data obtained from the University of Lübeck, please contact the authors for this file.
 
 ## Getting started
 
